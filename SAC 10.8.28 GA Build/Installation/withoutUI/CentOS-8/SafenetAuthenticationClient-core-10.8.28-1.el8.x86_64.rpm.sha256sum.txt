@@ -1,0 +1,1 @@
+de48d5add988e19db1bcfc9d1355cb9c82dbdf4ee7826595396725450d8e8b2b  SafenetAuthenticationClient-core-10.8.28-1.el8.x86_64.rpm

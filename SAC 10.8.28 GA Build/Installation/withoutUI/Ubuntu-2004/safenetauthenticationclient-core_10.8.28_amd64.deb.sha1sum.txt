@@ -1,0 +1,1 @@
+a23c20a69386e0788c6aeda3ca2c2ad9556b3cff  safenetauthenticationclient-core_10.8.28_amd64.deb

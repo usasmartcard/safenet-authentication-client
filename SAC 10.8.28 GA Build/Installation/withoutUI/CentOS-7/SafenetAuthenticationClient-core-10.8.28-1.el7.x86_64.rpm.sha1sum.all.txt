@@ -1,0 +1,11 @@
+c35b5eb8b65774d0aa6a20412e71bdbb7245feb4  ./etc/eToken.common.conf
+d1464307b79f6edd29c0a0003ac4f4d6e31b387d  ./etc/eToken.conf
+12ea87cea6e49ad7d45cb657edd6a282a238d19f  ./etc/init.d/SACSrv
+cced016fbff725cbcee7b5742e33c7dee7f90466  ./usr/bin/SACSrv
+905b079e61e6744f2cdb5e9a48de3c7324c7eb88  ./usr/lib64/libIDPVSlotEngine.so.10.8.28
+18fd991c891b9c73d70cf43a7948783b59d3468e  ./usr/lib64/libIDPrimePKCS11.so.10.8.28
+31983ced132c935e35f24b224a7d36cf082988e1  ./usr/lib64/libIDPrimeTokenEngine.so.10.8.28
+8807aa96d88f054bf075dcacf6074e3db36bfd38  ./usr/lib64/libSACLog.so.10.8.28
+9b7fc84afd4c07cfb1c548502c70f8502c1efa24  ./usr/lib64/libeToken.so.10.8.28
+3b1a816c36aad5ab6c5fb712c9282f04968498a7  ./usr/lib64/libeTokenHID.so.10.8.28
+ecee5dc74a1a411a23f0eaafc5c103f07c75efdf  ./usr/share/doc/SafenetAuthenticationClient-core-10.8.28/LICENSE.txt
