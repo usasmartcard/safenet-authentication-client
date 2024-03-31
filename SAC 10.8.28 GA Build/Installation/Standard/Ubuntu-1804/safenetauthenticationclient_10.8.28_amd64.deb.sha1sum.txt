@@ -1,1 +1,0 @@
-ce7be3b71cf114342928739fedb335006ac3410a  safenetauthenticationclient_10.8.28_amd64.deb
