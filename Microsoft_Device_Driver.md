@@ -1,6 +1,6 @@
 # Microsoft Device Driver: 
 
-# Microsoft Safenet driver 
+<p style="margin-left:0px;text-align:justify;">Microsoft Safenet driver</p>
 https://www.catalog.update.microsoft.com/Search.aspx?q=safenet
 
 # Microsoft Aladdin Etoken driver 
