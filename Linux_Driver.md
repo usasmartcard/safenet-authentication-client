@@ -4,16 +4,16 @@ Ubuntu 2004
 
 GlobalSign SAC Linux Ubuntu 2004 v10.8
 
-Linux Ubuntu 2204
+Ubuntu 2204
 
 GlobalSign SAC Linux Ubuntu 2204 v10.8
 
 
-Linux CentOS 8
+CentOS 8
 
 GlobalSign SAC Linux CentOS 8 v10.8
 
-Linux CentOS 9
+CentOS 9
 
 GlobalSign SAC Linux CentOS 9 v10.8
 
