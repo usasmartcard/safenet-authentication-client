@@ -12,7 +12,7 @@ GlobalSign SAC MAC v10.8 R1 GA
 
  
 
-MAC OS Monterey
+MAC OS Monterey, Big Sur
 
 GlobalSign SAC MAC v10.8 R1
 
@@ -22,27 +22,9 @@ MAC OS Big Sur, Catalina
 
 version 10.8
 
-GlobalSign SAC MAC v10.8
 
-version 10.2
 
-GlobalSign SAC MAC v10.2 Post GA R4
-
- 
-
-MAC OS Catalina
-
-version 10.8
-
-GlobalSign SAC MAC v10.8
-
-version 10.2
-
-GlobalSign SAC MAC v10.2 Post GA R3
-
- 
-
-Mac OS X
+MAC OS 10.09,10.10,10.11,10.12
 
 version 10.0
-GlobalSign SAC MAC v10.0
+
