@@ -2,9 +2,7 @@
 
 Mac OS SONOMA and VENTURA
 
-GlobalSign SAC MAC v10.8 R2 GA
-
- 
+SafeNetAuthenticationClient-10.8-R2-GA.zip
 
 Mac OS Ventura, Monterey, Big Sur
 
