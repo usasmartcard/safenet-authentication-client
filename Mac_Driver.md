@@ -10,7 +10,7 @@ Mac OS Ventura
 
 GlobalSign SAC MAC v10.8 R1 GA
 
- 
+SafeNetAuthenticationClient-10.8-R1-GA.zip 
 
 MAC OS Monterey, Big Sur
 
