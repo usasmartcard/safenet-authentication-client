@@ -10,3 +10,6 @@ https://github.com/usasmartcard/safenet-authentication-client/blob/main/SAC_10_8
 
 # Microsoft safenet driver 
 https://www.catalog.update.microsoft.com/Search.aspx?q=safenet
+
+# Microsoft Aladdin Etoken driver 
+https://www.catalog.update.microsoft.com/Search.aspx?q=Aladdin%20Etoken
