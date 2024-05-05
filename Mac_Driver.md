@@ -18,7 +18,7 @@ GlobalSign SAC MAC v10.8 R1
 
  
 
-MAC OS Big Sur
+MAC OS Big Sur, Catalina
 
 version 10.8
 
