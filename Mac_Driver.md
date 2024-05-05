@@ -1,6 +1,4 @@
-
-
-Downloads
+<h2 style="margin-left:0px;"><strong>SafeNet Authentication Client Linux Downloads:</strong></h2>
 
 Mac OS SONOMA and VENTURA
 
