@@ -10,16 +10,13 @@
 <p style="margin-left:0px;text-align:justify;">CentOS 9<br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-CentOS-9.zip">SafeNet-Authentication-Client-CentOS-9.zip</a></p>
 
+<p style="margin-left:0px;text-align:justify;">Linux Debian 64-bit<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-CentOS-8.zip">SafeNet-Authentication-Client-CentOS-8.zip</a></p>
+<p style="margin-left:0px;text-align:justify;">Linux Debian 32-bit<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-CentOS-9.zip">SafeNet-Authentication-Client-CentOS-9.zip</a></p>
 
 
 
-CentOS 8
-
-GlobalSign SAC Linux CentOS 8 v10.8
-
-CentOS 9
-
-GlobalSign SAC Linux CentOS 9 v10.8
 
 
 Linux RPM (Red Hat Package Manager)
