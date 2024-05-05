@@ -3,7 +3,7 @@
 https://github.com/usasmartcard/safenet-authentication-client/blob/main/Windows_Driver.md
 
 # Mac
-https://github.com/usasmartcard/safenet-authentication-client/blob/main/SafeNetAuthenticationClient.10.8.29.0.dmg
+https://github.com/usasmartcard/safenet-authentication-client/blob/main/Mac_Driver.md
 
 # Linux
 https://github.com/usasmartcard/safenet-authentication-client/blob/main/Linux_Driver.md
