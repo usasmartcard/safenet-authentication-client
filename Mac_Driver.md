@@ -17,7 +17,7 @@ MAC OS Big Sur, Catalina
 
 version 10.8
 
-
+SafeNetAuthenticationClient_10.8.29.0-Mac.zip
 
 MAC OS 10.09,10.10,10.11,10.12
 
