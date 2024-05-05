@@ -17,5 +17,4 @@ SafeNetAuthenticationClient_10.8.29.0-Mac.zip
 
 MAC OS 10.09,10.10,10.11,10.12
 
-version 10.0
-
+SafeNetAuthenticationClient_10.0-Mac.zip
