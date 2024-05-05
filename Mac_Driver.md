@@ -4,11 +4,16 @@
 <p style="margin-left:0px;text-align:justify;">Mac OS Sonoma and Ventura<br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient-10.8-R2-GA.zip">SafeNetAuthenticationClient-10.8-R2-GA.zip</a></p>
 
+<p style="margin-left:0px;text-align:justify;">Mac OS Ventura, Monterey, Big Sur<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient-10.8-R1-GA.zip ">SafeNetAuthenticationClient-10.8-R1-GA.zip</a></p>
+
+<p style="margin-left:0px;text-align:justify;">Mac OS Sonoma and Ventura<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient-10.8-R2-GA.zip">SafeNetAuthenticationClient-10.8-R2-GA.zip</a></p>
+
+<p style="margin-left:0px;text-align:justify;">Mac OS Sonoma and Ventura<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient-10.8-R2-GA.zip">SafeNetAuthenticationClient-10.8-R2-GA.zip</a></p>
 
 
-Mac OS Sonoma and Ventura
-
-SafeNetAuthenticationClient-10.8-R2-GA.zip
 
 Mac OS Ventura, Monterey, Big Sur
 
