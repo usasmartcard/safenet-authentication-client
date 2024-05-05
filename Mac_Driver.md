@@ -1,6 +1,6 @@
 <h2 style="margin-left:0px;"><strong>SafeNet Authentication Client Mac Downloads:</strong></h2>
 
-Mac OS SONOMA and VENTURA
+Mac OS Sonoma and Ventura
 
 SafeNetAuthenticationClient-10.8-R2-GA.zip
 
@@ -8,8 +8,7 @@ Mac OS Ventura, Monterey, Big Sur
 
 SafeNetAuthenticationClient-10.8-R1-GA.zip 
  
-
-MAC OS Big Sur, Catalina
+MAC OS Big Sur and Catalina
 
 SafeNetAuthenticationClient_10.8.29.0-Mac.zip
 
