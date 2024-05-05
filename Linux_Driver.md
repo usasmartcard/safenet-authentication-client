@@ -8,7 +8,7 @@
 <p style="margin-left:0px;text-align:justify;">CentOS 8<br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-CentOS-8.zip">SafeNet-Authentication-Client-CentOS-8.zip</a></p>
 <p style="margin-left:0px;text-align:justify;">CentOS 9<br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-Ubuntu-2204.zip">SafeNet-Authentication-Client-Ubuntu-2204.zip</a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-CentOS-9.zip">SafeNet-Authentication-Client-CentOS-9.zip</a></p>
 
 
 
