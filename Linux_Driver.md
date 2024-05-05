@@ -1,7 +1,7 @@
 <h2 style="margin-left:0px;"><strong>SafeNet Authentication Client Linux Downloads:</strong></h2>
 
 <p style="margin-left:0px;text-align:justify;"><br>Ubuntu 2004<br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-Ubuntu-2004.zip">SafeNet-Authentication-Client-Ubuntu-2004.zip</a><br>Ubuntu 2004<br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNet-Authentication-Client-Ubuntu-2004.zip">SafeNet-Authentication-Client-Ubuntu-2004.zip</a></p>
 
 
 <p style="margin-left:0px;text-align:justify;"><br>Ubuntu 2204<br>
