@@ -1,4 +1,4 @@
-Linux Ubuntu 2004
+Ubuntu 2004
 
 GlobalSign SAC Linux Ubuntu 2004 v10.8
 
