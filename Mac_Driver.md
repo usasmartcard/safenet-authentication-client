@@ -11,7 +11,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient_10.8.29.0-Mac.zip">SafeNetAuthenticationClient_10.8.29.0-Mac.zip</a></p>
 
 <p style="margin-left:0px;text-align:justify;">MAC OS 10.09,10.10,10.11,10.12<br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient-10.8-R2-GA.zip">SafeNetAuthenticationClient-10.8-R2-GA.zip</a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/usasmartcard/safenet-authentication-client/raw/main/SafeNetAuthenticationClient_10.0-Mac.zip">SafeNetAuthenticationClient_10.0-Mac.zip</a></p>
 
 
 
