@@ -12,5 +12,7 @@
 # Microsoft_Device_Driver
 [https://github.com/usasmartcard/safenet-authentication-client/blob/main/Microsoft_Device_Driver.md](https://github.com/usasmartcard/safenet-authentication-client/blob/main/Microsoft_Device_Driver.md)
 
+https://knowledge.digicert.com/general-information/how-to-download-safenet-authentication-client
+
 
 
