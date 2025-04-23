@@ -18,7 +18,7 @@ https://tinyurl.com/k4uw3srr
 
 # Aladdin Etoken Win 10&11 mini driver
 
-https://github.com/usasmartcard/safenet-authentication-client/blob/main/Etoken_Win.zip
+[https://github.com/usasmartcard/safenet-authentication-client/blob/main/Etoken_Win.zip](https://github.com/usasmartcard/safenet-authentication-client/blob/main/etoken_Installer.exe)
 
 
 
